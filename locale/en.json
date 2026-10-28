@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Neural video studio",
+    "description": "Describe a film and the model writes the renderer — Canvas2D, a WebGL shader, or an articulated animation for your own 3D model — plus a synthesized soundtrack. Refine it endlessly with words and record up to 60 seconds."
+  }
+}

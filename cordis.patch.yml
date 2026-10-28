@@ -1,0 +1,7 @@
+# Neural video studio: one Host row and one Client half. The row id below is the
+# sidebar panel id and the main-panel key, so the shipped sidebar resolves the
+# icon and the center column resolves the studio page from the same two
+# registrations in client.js.
+- insert:
+    - id: neural-video-studio
+      name: '@local/neural-video-studio'
